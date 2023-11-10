@@ -75,14 +75,12 @@ Tất cả kiến thức được sử dụng tại bài báo trong thư mục p
 
 # Result
 #### Các kết quả thu lại từ Matlab
-![](Picture/fig1.png)
-*Fig. 7 Average Throughput of infinite-station slotted ALOHA*
-![](https://i.imgur.com/e3vcxYm.png)
-*Fig. 8 Collision probability of infinite-station slotted ALOHA*
+![](Picture/fig1.png)  
+*Fig. 1 System outage probability Pout(M) of HARQ-IR with and without relaying for R1 = 1 bps/Hz*  
+![](Picture/fig2.png)  
+*Fig. 2 Average number of transmissions of HARQ-IR with relaying for different target outage probabilities e*  
 
-
-#### Scenario 2: Finite-Station
-![](https://i.imgur.com/BQdroks.png)
-*Fig. 9 Average Throughput of finite-station slotted ALOHA*
-![](https://i.imgur.com/kp7YO9N.png)
-*Fig. 10 Collision Probability of finite-station slotted ALOHA*
+![](Picture/fig3.png)  
+*sFig. 3 System outage probability Pout(M) versus transmission rate R1 for a transmit SNR ρ = 0 dB*  
+![](Picture/fig4.png)  
+*Fig. 4 Average transmission rate of HARQ-IR with relaying for different target outage probabilities e*  
